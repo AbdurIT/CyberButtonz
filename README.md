@@ -3,73 +3,80 @@
 </p>
 
 # ⚡ CYBER BUTTONZ — Futuristic Button UI Collection
-A collection of high-quality futuristic, cyberpunk, hacker-style UI buttons designed using modern CSS.
-Perfect for dashboards, games, terminals, sci-fi websites, or any interface that needs a tech + neon aesthetic.
 
-### Source Code Map
+A collection of **high-quality futuristic, cyberpunk, hacker-style UI buttons** designed using modern CSS.  
+Perfect for **dashboards, games, terminals, sci-fi websites, HUD interfaces**, or anything that needs a **tech + neon aesthetic**.
 
-| Class           | Role                                        |
-| --------------- | ------------------------------------------- |
-| `a.a.a.ProjectBuilder`      | Helper for compiling an entire project       |
-| `a.a.a.Ix`      | Responsible for generating AndroidManifest.xml |
-| `a.a.a.Jx`      | Generates source code of activities          |
-| `a.a.a.Lx`      | Generates source code of components, such as listeners, etc. |
-| `a.a.a.Ox`      | Responsible for generating XML files of layouts |
-| `a.a.a.qq`      | Registry of built-in libraries' dependencies |
-| `a.a.a.tq`      | Responsible for the compiling dialog's quizzes |
-| `a.a.a.yq`      | Organizes Sketchware projects' file paths    |
+All buttons are original and protected under a **custom no-repost license**.  
+If you share the code, you **must link back to this repository**.
+
+---
+
+## 📁 Source Code Map (Your Project Structure)
+
+| Folder / File | Description |
+| ------------- | ----------- |
+| `assets/` | Contains images, banner, and style references |
+| `css/` | All button style CSS files |
+| `html/` | Button demo pages and previews |
+| `buttons/` | Individual button style folders |
+| `LICENSE.md` | Custom license created to protect designs |
+| `README.md` | This file |
 
 > [!TIP]
-> You can also check the `mod` package, which contains the majority of contributors' changes.
+> Each button style has its own folder with dedicated CSS and HTML so users can test easily.
 
-## Contributing
+---
 
-If you'd like to contribute to Sketchware Pro, follow these steps:
+## 🔧 How to Use
 
-1. Fork this repository.
-2. Make changes in your forked repository.
-3. Test out those changes.
-4. Create a pull request in this repository.
-5. Your pull request will be reviewed by the repository members and merged if accepted.
+1. Clone or download this repo  
+2. Open any HTML file inside **buttons/** or **html/**  
+3. Copy the HTML + CSS **inspired by the style**  
+4. Write your own implementation (required by license)
 
-We welcome contributions of any size, whether they are major features or bug fixes, but please note that all contributions will be thoroughly reviewed.
+---
 
-### Commit Message
+## 🔥 Button Categories
 
-When you make changes to one or more files, you need to commit those changes with a commit message. Here are some guidelines:
+- **Minimal Cyber** — clean, modern, futuristic
+- **Terminal / Hacker** — green/amber CLI effects  
+- **Mecha UI** — robotic sharp edges  
+- **Retro Neon** — glowing pixel-style buttons  
+- **Danger / Error / Corrupt** — glitch animations  
+- **HUD Elements** — sci-fi scanning effects  
+- **Ghost / Power / Process** — animated interactions  
 
-- Keep the commit message short and detailed.
-- Use one of these commit types as a prefix:
-  - `feat:` for a feature, possibly improving something already existing.
-  - `fix:` for a fix, such as a bug fix.
-  - `style:` for features and updates related to styling.
-  - `refactor:` for refactoring a specific section of the codebase.
-  - `test:` for everything related to testing.
-  - `docs:` for everything related to documentation.
-  - `chore:` for code maintenance (you can also use emojis to represent commit types).
+More styles coming soon…
 
-Examples:
-- `feat: Speed up compiling with new technique`
-- `fix: Fix crash during launch on certain phones`
-- `refactor: Reformat code in File.java`
+---
+
+## 🤝 Contributing
+
+Want to add your own *inspired* cyber-style button?
+
+1. Fork this repo  
+2. Create a **new folder** inside `/buttons/`  
+3. Add your HTML + CSS  
+4. Make sure it’s **100% your code** (no copying)  
+5. Submit a pull request  
+6. We will review and merge if approved
 
 > [!IMPORTANT]
-> If you want to add new features that don't require editing other packages other than `pro.sketchware`, make your changes in `pro.sketchware` package, and respect the directories and files structure and names. Also, even though the project compiles just fine with Kotlin classes that you might add, try to make your changes or additions in Java, not Kotlin unless it is more than necessary.
+> Do **NOT** copy existing code. Only **original inspired designs** are accepted.
 
-## Thanks for Contributing
+---
 
-Thank you for contributing to Sketchware Pro! Your contributions help keep Sketchware Pro alive. Each accepted contribution will be noted down in the "About Team" activity. We'll use your GitHub name and profile picture initially, but they can be changed, of course.
+## 📝 Commit Message Rules
 
-## Discord
+Use a clear commit prefix:
 
-Want to chat with us, discuss changes, or just hang out? We have a Discord server just for that.
+- `feat:` — new button style  
+- `fix:` — fix CSS or demo issue  
+- `style:` — visual improvements  
+- `refactor:` — clean up structure  
+- `docs:` — update README or comments  
+- `chore:` — folder rename, asset update
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/kq39yhT4rX)](http://discord.gg/kq39yhT4rX)
+Examples:
 
-## Disclaimer
-
-This mod was not created for any harmful purposes, such as harming Sketchware; quite the opposite, actually. It was made to keep Sketchware alive by the community for the community. Please use it at your own discretion and consider becoming a Patreon backer to support the developers. Unfortunately, other ways to support them are not working anymore, so Patreon is the only available option currently. You can find their Patreon page [here](https://www.patreon.com/sketchware).
-
-We do NOT permit publishing Sketchware Pro as it is, or with modifications, on Play Store or on any other app store. Keep in mind that this project is still a mod. Unauthorized modding of apps is considered illegal and we discourage such behavior.
-
-We love Sketchware very much and are grateful to Sketchware's developers for creating such an amazing app. However, we haven't received updates for a long time. That's why we decided to keep Sketchware alive by creating this mod, and it's completely free. We don't demand any money :)
