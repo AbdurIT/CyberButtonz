@@ -2,7 +2,7 @@
   <img src="assets/banner.png" style="width: 100%;" />
 </p>
 
-# Sketchware Pro
+# CYBER_BUTTONZ
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdurIT/CyberButtonz)](https://github.com/AbdurIT/CyberButtonz/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AbdurIT/CyberButtonz)](https://github.com/AbdurIT/CyberButtonz/commits/)
 [![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
