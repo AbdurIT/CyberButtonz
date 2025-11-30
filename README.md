@@ -35,46 +35,17 @@ If you share the code, you **must link back to this repository**.
 
 ---
 
-## 🔥 Button Categories
+## 🖱️ Add Your Custom onClick Action
 
-- **Minimal Cyber** — clean, modern, futuristic  
-- **Terminal / Hacker** — green/amber CLI effects  
-- **Mecha UI** — robotic sharp edges  
-- **Retro Neon** — glowing pixel-style buttons  
-- **Danger / Error / Corrupt** — glitch animations  
-- **HUD Elements** — sci-fi scanning effects  
-- **Ghost / Power / Process** — animated interactions  
+All buttons support **JavaScript actions**, so you can bind your own logic easily.
 
-More styles coming soon…
+### 🔹 Inline onClick Example
 
----
+```html
+<button class="cyber-btn" onclick="myAction()">Click Me</button>
 
-## 🤝 Contributing
-
-Want to add your own *inspired* cyber-style button?
-
-1. Fork this repo  
-2. Create a **new folder** inside `/buttons/`  
-3. Add your HTML + CSS  
-4. Make sure it’s **100% your original code**  
-5. Submit a pull request  
-6. I'll review and merge if approved
-
-> [!IMPORTANT]
-> Do **NOT** copy existing code. Only **original inspired designs** are accepted.
-
----
-
-## 📝 Commit Message Rules
-
-Use a clear commit prefix:
-
-- `feat:` — new button style  
-- `fix:` — fix CSS or demo issue  
-- `style:` — visual improvements  
-- `refactor:` — structural cleanup  
-- `docs:` — update README or comments  
-- `chore:` — asset updates, renames, maintenance
-
-### Example Messages:
-
+<script>
+  function myAction() {
+    alert("Your custom onClick action is working!");
+  }
+</script>
