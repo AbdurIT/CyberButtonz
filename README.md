@@ -2,17 +2,9 @@
   <img src="assets/banner.png" style="width: 100%;" />
 </p>
 
-# CYBER_BUTTONZ
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdurIT/CyberButtonz)](https://github.com/AbdurIT/CyberButtonz/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/AbdurIT/CyberButtonz)](https://github.com/AbdurIT/CyberButtonz/commits/)
-[![Discord server stats](https://img.shields.io/discord/790686719753846785)](http://discord.gg/kq39yhT4rX)
-[![Total downloads](https://img.shields.io/github/downloads/AbdurIT/CyberButtonz/total)](https://github.com/AbdurIT/CyberButtonz/releases)
-[![Repository Size](https://img.shields.io/github/repo-size/AbdurIT/CyberButtonz)](https://github.com/AbdurIT/CyberButtonz)
-
-Welcome to Sketchware Pro! Here you'll find the source code of many classes in Sketchware Pro and, most importantly, the place to contribute to Sketchware Pro.
-
-## Building the App
-To build the app, you must use Gradle. It's highly recommended to use Android Studio for the best experience.
+# ⚡ CYBER BUTTONZ — Futuristic Button UI Collection
+A collection of high-quality futuristic, cyberpunk, hacker-style UI buttons designed using modern CSS.
+Perfect for dashboards, games, terminals, sci-fi websites, or any interface that needs a tech + neon aesthetic.
 
 ### Source Code Map
 
