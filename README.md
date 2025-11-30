@@ -60,7 +60,7 @@ Want to add your own *inspired* cyber-style button?
 3. Add your HTML + CSS  
 4. Make sure it’s **100% your code** (no copying)  
 5. Submit a pull request  
-6. We will review and merge if approved
+6. I'll review and merge if approved
 
 > [!IMPORTANT]
 > Do **NOT** copy existing code. Only **original inspired designs** are accepted.
