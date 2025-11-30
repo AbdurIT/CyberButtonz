@@ -1,34 +1,39 @@
-# CYBER BUTTONZ — Custom License
 
-Copyright © 2025 AbdurIT (Abdur Rakib Talukder)  
-All rights reserved.
+---
 
-## Permissions
-You are allowed to:
-- Use these button designs in personal or commercial projects.
-- Learn from the code for educational or practice purposes.
-- Create your own original buttons inspired by the style, as long as the code is fully written by you.
+## 📜 License (Summary)
 
-## Restrictions
-You are NOT allowed to:
-- Re-upload, re-publish, or distribute this code on any other website, platform, repository, or application.
-- Copy or modify the code and claim it as your own work.
-- Upload any part of this code to CodePen, GitHub Gist, YouTube, UI kits, templates, or any other public site without permission.
-- Host downloadable versions of this code anywhere except this official repository.
+This project uses a **Custom “No Repost, Credit Required” License**:
 
-## Required Credit
-If you feature, share, or showcase these buttons:
-You must include a visible credit and link back to the repository:
+- ❌ No re-uploading to any other site  
+- ❌ No copying the source code as-is  
+- ✔ Allowed to use inspired designs only  
+- ✔ Must link back to this repo for any showcase or tutorial  
 
-Buttons by AbdurIT — https://github.com/AbdurIT/CyberButtonz
+Full license here: **LICENSE.md**
 
-Any “Download” or “Source Code” link must redirect to this official repository only.
+---
 
-## Allowed Inspired Work
-You may:
-- Use the visual style as inspiration
-- Create your own cyber-style buttons  
-But you must write your own code — do NOT copy or lightly modify this code.
+## 🏆 Credits
 
-## Special Permissions
-For permissions beyond the terms of this license, contact: root@abdur.it
+Made with ❤️ by **AbdurIT**  
+GitHub: https://github.com/AbdurIT
+
+---
+
+## 💬 Join the Conversation
+
+Want to suggest new cyber-style buttons?  
+Have an idea or want to collaborate?
+
+Open an **Issue** or start a **Discussion** in the repo!
+
+---
+
+## ⚠️ Disclaimer
+
+All button designs are original works.  
+Unauthorized republishing, code theft, or rebranding is not allowed.
+
+This repo is created for developers, designers, and UI learners to explore futuristic button concepts and build *their own* versions.
+
