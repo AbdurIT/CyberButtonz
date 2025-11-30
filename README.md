@@ -17,8 +17,6 @@ If you share the code, you **must link back to this repository**.
 | Folder / File | Description |
 | ------------- | ----------- |
 | `assets/` | Contains images, banner, and style references |
-| `css/` | All button style CSS files |
-| `html/` | Button demo pages and previews |
 | `buttons/` | Individual button style folders |
 | `LICENSE.md` | Custom license created to protect designs |
 | `README.md` | This file |
