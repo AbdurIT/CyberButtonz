@@ -31,6 +31,4 @@ You may:
 But you must write your own code — do NOT copy or lightly modify this code.
 
 ## Special Permissions
-For permissions beyond the terms of this license, contact:
-
-root@abdur.it
+For permissions beyond the terms of this license, contact: root@abdur.it
